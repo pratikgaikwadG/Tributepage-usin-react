@@ -1,0 +1,28 @@
+.nav{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+
+}
+
+.left{
+    margin-top: 5px;
+    flex: 20%;
+
+}
+
+.right{
+    margin-top: 15px;
+    text-align: right;
+    flex: 80%;
+    color: black;
+
+}
+
+.logoimg{
+    flex: 80%;
+    height: 100%;
+    color: black;
+}
